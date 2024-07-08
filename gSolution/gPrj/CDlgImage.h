@@ -1,7 +1,7 @@
 ﻿#pragma once
 #include "afxdialogex.h"
 
-
+#define MAX_POINT  100
 // CDlgImage 대화 상자
 
 class CDlgImage : public CDialogEx
@@ -15,7 +15,7 @@ public:
 	CImage m_image;
 	CWnd* m_pParent;
 	int m_nDataCount = 0;
-	CPoint m_ptData[100];
+	CPoint m_ptData[MAX_POINT];
 
 
 // 대화 상자 데이터입니다.
