@@ -1,7 +1,8 @@
 # mfcCImageMakeRandomCircle
 
 이 프로젝트는 MFC를 사용하여 무작위로 원을 생성하고 표시하는 프로그램입니다. </br>
-`mfcCImageMakeRandomCircle` 파일은 과제로 제출된 것입니다. 나머지 파일들은 수업 중에 만든 파일들이며, 확인 차원에서 포함시켰습니다.
+`mfcCImageMakeRandomCircle` 파일은 과제로 제출된 것입니다. </br> 
+나머지 파일들은 수업 중에 만든 파일들이며, 확인 차원에서 포함시켰습니다.
 
 ## 프로젝트 설명
 
