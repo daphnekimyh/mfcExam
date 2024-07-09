@@ -1,7 +1,7 @@
 ﻿#pragma once
 #include "afxdialogex.h"
 
-#define MAX_POINT  100
+#define MAX_POINT  100000
 // CDlgImage 대화 상자
 
 class CDlgImage : public CDialogEx
